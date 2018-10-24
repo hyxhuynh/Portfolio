@@ -14,6 +14,9 @@ Up-to-date portfolio for current achievements, projects, and progress
 ## Technologies
 * HTML
 * CSS (Meyer Web Reset CSS, Media Queries for responsiveness)
+* JavaScript/ jQuery
+* Firebase
+* animate.css
 
 <a name="installation"></a>
 ## Local Installation
