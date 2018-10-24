@@ -23,7 +23,7 @@ Up-to-date portfolio for current achievements, projects, and progress
 
 Download the files to your computer from https://github.com/hyxhuynh/Portfolio and open index.html using your browser (eg. Google Chrome)
 
-Or visit https://hyxhuynh.github.io/liri-node-app/ 
+Or visit https://hyxhuynh.github.io/Portfolio/ 
 
 <a name="display"></a>
 ## Profile Preview
