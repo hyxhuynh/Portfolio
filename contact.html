@@ -7,7 +7,14 @@
     <title>Hy Huynh's Portfolio</title>
     <link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+    <!-- Firebase App is always required and must be first -->
+    <script src="https://www.gstatic.com/firebasejs/5.5.5/firebase-app.js"></script>
+
+    <!-- Add additional services that you want to use -->
+    <script src="https://www.gstatic.com/firebasejs/5.5.5/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.5.5/firebase-database.js"></script>
+
 <body>
     <header id="masthead">
         <div class="container">
@@ -20,7 +27,7 @@
         </div>
     </header>
 
-    <div id="main-container" class="container">
+    <div id="main-container" class="container animated fadeInDown">
         <section class="main-section">
             <h1>
                 Contact
@@ -41,7 +48,7 @@
                         <textarea name="message" id="message" required="required"></textarea>
                     </li>               
                 </ul>
-                <input type="submit" name="submit">
+                <input class ="submit" type="submit" name="submit">
             </form>
 
         </section>
@@ -70,6 +77,8 @@
         </div>
     </footer>
     
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="assets/javascript/app.js"></script>
 </body>
 </html>
 
